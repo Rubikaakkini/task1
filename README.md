@@ -58,3 +58,8 @@ Provides an easy-to-use interactive menu for the user to choose different file o
 4 - Read the file's contents.
 5 - Exit the program.
 Each menu choice directs to the corresponding file operation.
+
+
+
+** OUTPUT OF THE TASK 
+![Image](https://github.com/user-attachments/assets/97b89310-0a0d-493f-98c5-9c197882b2f5)
